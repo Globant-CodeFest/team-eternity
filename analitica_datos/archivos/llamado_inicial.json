@@ -1,0 +1,1528 @@
+[
+    {
+        "Afghanistan": {
+            "Biological": 17,
+            "Climatological": 1,
+            "Geophysical": 27,
+            "Hydrological": 111,
+            "Meteorological": 16
+        }
+    },
+    {
+        "Albania": {
+            "Biological": 1,
+            "Geophysical": 3,
+            "Hydrological": 8,
+            "Meteorological": 6
+        }
+    },
+    {
+        "Algeria": {
+            "Biological": 1,
+            "Climatological": 3,
+            "Geophysical": 10,
+            "Hydrological": 44,
+            "Meteorological": 5
+        }
+    },
+    {
+        "American Samoa": {
+            "Geophysical": 1,
+            "Hydrological": 1
+        }
+    },
+    {
+        "Angola": {
+            "Biological": 18,
+            "Climatological": 1,
+            "Hydrological": 37
+        }
+    },
+    {
+        "Anguilla": {
+            "Meteorological": 1
+        }
+    },
+    {
+        "Antigua and Barbuda": {
+            "Meteorological": 6
+        }
+    },
+    {
+        "Argentina": {
+            "Biological": 2,
+            "Climatological": 4,
+            "Geophysical": 2,
+            "Hydrological": 36,
+            "Meteorological": 26
+        }
+    },
+    {
+        "Armenia": {
+            "Hydrological": 2
+        }
+    },
+    {
+        "Australia": {
+            "Climatological": 19,
+            "Geophysical": 1,
+            "Hydrological": 41,
+            "Meteorological": 48
+        }
+    },
+    {
+        "Austria": {
+            "Hydrological": 15,
+            "Meteorological": 13
+        }
+    },
+    {
+        "Azerbaijan": {
+            "Geophysical": 3,
+            "Hydrological": 4,
+            "Meteorological": 1
+        }
+    },
+    {
+        "Azores Islands": {
+            "Geophysical": 2,
+            "Hydrological": 1
+        }
+    },
+    {
+        "Bahamas (the)": {
+            "Meteorological": 10
+        }
+    },
+    {
+        "Bahrain": {
+            "Biological": 1
+        }
+    },
+    {
+        "Bangladesh": {
+            "Biological": 29,
+            "Climatological": 1,
+            "Geophysical": 8,
+            "Hydrological": 85,
+            "Meteorological": 167
+        }
+    },
+    {
+        "Barbados": {
+            "Hydrological": 1,
+            "Meteorological": 2
+        }
+    },
+    {
+        "Belarus": {
+            "Biological": 1,
+            "Hydrological": 1,
+            "Meteorological": 5
+        }
+    },
+    {
+        "Belgium": {
+            "Geophysical": 1,
+            "Hydrological": 5,
+            "Meteorological": 21
+        }
+    },
+    {
+        "Belize": {
+            "Hydrological": 1,
+            "Meteorological": 6
+        }
+    },
+    {
+        "Benin": {
+            "Biological": 26,
+            "Climatological": 2,
+            "Hydrological": 12
+        }
+    },
+    {
+        "Bermuda": {
+            "Meteorological": 1
+        }
+    },
+    {
+        "Bhutan": {
+            "Biological": 1,
+            "Geophysical": 2,
+            "Hydrological": 3,
+            "Meteorological": 2
+        }
+    },
+    {
+        "Bolivia (Plurinational State of)": {
+            "Biological": 10,
+            "Climatological": 1,
+            "Geophysical": 2,
+            "Hydrological": 41,
+            "Meteorological": 5
+        }
+    },
+    {
+        "Bosnia and Herzegovina": {
+            "Hydrological": 5,
+            "Meteorological": 4
+        }
+    },
+    {
+        "Botswana": {
+            "Biological": 3,
+            "Hydrological": 4
+        }
+    },
+    {
+        "Brazil": {
+            "Biological": 11,
+            "Climatological": 2,
+            "Geophysical": 2,
+            "Hydrological": 144,
+            "Meteorological": 20
+        }
+    },
+    {
+        "Bulgaria": {
+            "Climatological": 3,
+            "Geophysical": 3,
+            "Hydrological": 14,
+            "Meteorological": 10
+        }
+    },
+    {
+        "Burkina Faso": {
+            "Biological": 22,
+            "Hydrological": 13
+        }
+    },
+    {
+        "Burundi": {
+            "Biological": 12,
+            "Climatological": 2,
+            "Geophysical": 1,
+            "Hydrological": 17,
+            "Meteorological": 3
+        }
+    },
+    {
+        "Cabo Verde": {
+            "Biological": 2,
+            "Hydrological": 1,
+            "Meteorological": 3
+        }
+    },
+    {
+        "Cambodia": {
+            "Biological": 7,
+            "Hydrological": 16,
+            "Meteorological": 4
+        }
+    },
+    {
+        "Cameroon": {
+            "Biological": 24,
+            "Geophysical": 2,
+            "Hydrological": 16
+        }
+    },
+    {
+        "Canada": {
+            "Biological": 5,
+            "Climatological": 4,
+            "Geophysical": 1,
+            "Hydrological": 15,
+            "Meteorological": 21
+        }
+    },
+    {
+        "Canary Is": {
+            "Hydrological": 2,
+            "Meteorological": 2
+        }
+    },
+    {
+        "Cayman Islands (the)": {
+            "Meteorological": 1
+        }
+    },
+    {
+        "Central African Republic": {
+            "Biological": 12,
+            "Climatological": 1,
+            "Hydrological": 6,
+            "Meteorological": 4
+        }
+    },
+    {
+        "Chad": {
+            "Biological": 23,
+            "Climatological": 1,
+            "Hydrological": 14,
+            "Meteorological": 3
+        }
+    },
+    {
+        "Chile": {
+            "Biological": 1,
+            "Climatological": 6,
+            "Geophysical": 15,
+            "Hydrological": 30,
+            "Meteorological": 10
+        }
+    },
+    {
+        "China": {
+            "Biological": 5,
+            "Climatological": 9,
+            "Geophysical": 98,
+            "Hydrological": 343,
+            "Meteorological": 264
+        }
+    },
+    {
+        "Colombia": {
+            "Biological": 4,
+            "Climatological": 2,
+            "Geophysical": 22,
+            "Hydrological": 105,
+            "Meteorological": 7
+        }
+    },
+    {
+        "Comoros (the)": {
+            "Biological": 4,
+            "Geophysical": 2,
+            "Hydrological": 2,
+            "Meteorological": 4
+        }
+    },
+    {
+        "Congo (the Democratic Republic of the)": {
+            "Biological": 73,
+            "Climatological": 2,
+            "Geophysical": 7,
+            "Hydrological": 26,
+            "Meteorological": 5
+        }
+    },
+    {
+        "Congo (the)": {
+            "Biological": 17,
+            "Hydrological": 6
+        }
+    },
+    {
+        "Cook Islands (the)": {
+            "Biological": 1,
+            "Meteorological": 3
+        }
+    },
+    {
+        "Costa Rica": {
+            "Biological": 1,
+            "Geophysical": 11,
+            "Hydrological": 24,
+            "Meteorological": 8
+        }
+    },
+    {
+        "Croatia": {
+            "Climatological": 2,
+            "Geophysical": 2,
+            "Hydrological": 2,
+            "Meteorological": 6
+        }
+    },
+    {
+        "Cuba": {
+            "Biological": 1,
+            "Geophysical": 1,
+            "Hydrological": 13,
+            "Meteorological": 22
+        }
+    },
+    {
+        "Cyprus": {
+            "Climatological": 1,
+            "Geophysical": 1,
+            "Meteorological": 3
+        }
+    },
+    {
+        "Czech Republic (the)": {
+            "Hydrological": 11,
+            "Meteorological": 12
+        }
+    },
+    {
+        "Czechoslovakia": {
+            "Hydrological": 2
+        }
+    },
+    {
+        "C\u00f4te d\u2019Ivoire": {
+            "Biological": 14,
+            "Hydrological": 13
+        }
+    },
+    {
+        "Denmark": {
+            "Meteorological": 8
+        }
+    },
+    {
+        "Djibouti": {
+            "Biological": 5,
+            "Hydrological": 6,
+            "Meteorological": 1
+        }
+    },
+    {
+        "Dominica": {
+            "Meteorological": 6
+        }
+    },
+    {
+        "Dominican Republic (the)": {
+            "Biological": 8,
+            "Geophysical": 1,
+            "Hydrological": 22,
+            "Meteorological": 28
+        }
+    },
+    {
+        "Ecuador": {
+            "Biological": 7,
+            "Climatological": 1,
+            "Geophysical": 17,
+            "Hydrological": 34
+        }
+    },
+    {
+        "Egypt": {
+            "Biological": 1,
+            "Geophysical": 4,
+            "Hydrological": 12,
+            "Meteorological": 12
+        }
+    },
+    {
+        "El Salvador": {
+            "Biological": 8,
+            "Geophysical": 7,
+            "Hydrological": 19,
+            "Meteorological": 14
+        }
+    },
+    {
+        "Equatorial Guinea": {
+            "Biological": 1
+        }
+    },
+    {
+        "Eritrea": {
+            "Meteorological": 1
+        }
+    },
+    {
+        "Estonia": {
+            "Meteorological": 3
+        }
+    },
+    {
+        "Ethiopia": {
+            "Biological": 26,
+            "Climatological": 3,
+            "Geophysical": 3,
+            "Hydrological": 42
+        }
+    },
+    {
+        "Fiji": {
+            "Hydrological": 9,
+            "Meteorological": 30
+        }
+    },
+    {
+        "France": {
+            "Biological": 2,
+            "Climatological": 6,
+            "Geophysical": 1,
+            "Hydrological": 44,
+            "Meteorological": 63
+        }
+    },
+    {
+        "French Guiana": {
+            "Hydrological": 1
+        }
+    },
+    {
+        "French Polynesia": {
+            "Hydrological": 2,
+            "Meteorological": 3
+        }
+    },
+    {
+        "Gabon": {
+            "Biological": 4,
+            "Hydrological": 1
+        }
+    },
+    {
+        "Gambia (the)": {
+            "Biological": 3,
+            "Hydrological": 7,
+            "Meteorological": 4
+        }
+    },
+    {
+        "Georgia": {
+            "Geophysical": 3,
+            "Hydrological": 7
+        }
+    },
+    {
+        "Germany": {
+            "Geophysical": 1,
+            "Hydrological": 12,
+            "Meteorological": 46
+        }
+    },
+    {
+        "Germany Fed Rep": {
+            "Hydrological": 3,
+            "Meteorological": 3
+        }
+    },
+    {
+        "Ghana": {
+            "Biological": 18,
+            "Climatological": 1,
+            "Hydrological": 22,
+            "Meteorological": 1
+        }
+    },
+    {
+        "Greece": {
+            "Climatological": 9,
+            "Geophysical": 15,
+            "Hydrological": 15,
+            "Meteorological": 12
+        }
+    },
+    {
+        "Grenada": {
+            "Meteorological": 1
+        }
+    },
+    {
+        "Guadeloupe": {
+            "Geophysical": 1,
+            "Meteorological": 3
+        }
+    },
+    {
+        "Guam": {
+            "Meteorological": 4
+        }
+    },
+    {
+        "Guatemala": {
+            "Biological": 7,
+            "Climatological": 1,
+            "Geophysical": 12,
+            "Hydrological": 32,
+            "Meteorological": 15
+        }
+    },
+    {
+        "Guinea": {
+            "Biological": 15,
+            "Climatological": 1,
+            "Geophysical": 1,
+            "Hydrological": 7,
+            "Meteorological": 1
+        }
+    },
+    {
+        "Guinea-Bissau": {
+            "Biological": 8,
+            "Climatological": 1,
+            "Hydrological": 2,
+            "Meteorological": 2
+        }
+    },
+    {
+        "Guyana": {
+            "Hydrological": 1
+        }
+    },
+    {
+        "Haiti": {
+            "Biological": 5,
+            "Geophysical": 3,
+            "Hydrological": 47,
+            "Meteorological": 35
+        }
+    },
+    {
+        "Honduras": {
+            "Biological": 7,
+            "Geophysical": 2,
+            "Hydrological": 32,
+            "Meteorological": 16
+        }
+    },
+    {
+        "Hong Kong": {
+            "Biological": 1,
+            "Hydrological": 11,
+            "Meteorological": 31
+        }
+    },
+    {
+        "Hungary": {
+            "Hydrological": 4,
+            "Meteorological": 11
+        }
+    },
+    {
+        "Iceland": {
+            "Geophysical": 1,
+            "Hydrological": 4
+        }
+    },
+    {
+        "India": {
+            "Biological": 55,
+            "Climatological": 7,
+            "Geophysical": 22,
+            "Hydrological": 305,
+            "Meteorological": 213
+        }
+    },
+    {
+        "Indonesia": {
+            "Biological": 30,
+            "Climatological": 10,
+            "Geophysical": 107,
+            "Hydrological": 249,
+            "Meteorological": 10
+        }
+    },
+    {
+        "Iran (Islamic Republic of)": {
+            "Biological": 2,
+            "Geophysical": 66,
+            "Hydrological": 77,
+            "Meteorological": 11
+        }
+    },
+    {
+        "Iraq": {
+            "Biological": 4,
+            "Geophysical": 2,
+            "Hydrological": 10
+        }
+    },
+    {
+        "Ireland": {
+            "Biological": 1,
+            "Hydrological": 2,
+            "Meteorological": 11
+        }
+    },
+    {
+        "Israel": {
+            "Biological": 1,
+            "Climatological": 1,
+            "Hydrological": 5,
+            "Meteorological": 3
+        }
+    },
+    {
+        "Italy": {
+            "Biological": 1,
+            "Climatological": 4,
+            "Geophysical": 25,
+            "Hydrological": 42,
+            "Meteorological": 31
+        }
+    },
+    {
+        "Jamaica": {
+            "Biological": 1,
+            "Hydrological": 8,
+            "Meteorological": 18
+        }
+    },
+    {
+        "Japan": {
+            "Biological": 1,
+            "Geophysical": 35,
+            "Hydrological": 53,
+            "Meteorological": 130
+        }
+    },
+    {
+        "Jordan": {
+            "Biological": 1,
+            "Hydrological": 5,
+            "Meteorological": 4
+        }
+    },
+    {
+        "Kazakhstan": {
+            "Biological": 1,
+            "Geophysical": 1,
+            "Hydrological": 7,
+            "Meteorological": 2
+        }
+    },
+    {
+        "Kenya": {
+            "Biological": 34,
+            "Climatological": 4,
+            "Geophysical": 1,
+            "Hydrological": 56,
+            "Meteorological": 1
+        }
+    },
+    {
+        "Kiribati": {
+            "Biological": 1,
+            "Meteorological": 1
+        }
+    },
+    {
+        "Korea (the Democratic People's Republic of)": {
+            "Biological": 1,
+            "Hydrological": 21,
+            "Meteorological": 8
+        }
+    },
+    {
+        "Korea (the Republic of)": {
+            "Biological": 2,
+            "Climatological": 2,
+            "Hydrological": 37,
+            "Meteorological": 51
+        }
+    },
+    {
+        "Kuwait": {
+            "Hydrological": 2
+        }
+    },
+    {
+        "Kyrgyzstan": {
+            "Biological": 1,
+            "Geophysical": 3,
+            "Hydrological": 10,
+            "Meteorological": 3
+        }
+    },
+    {
+        "Lao People's Democratic Republic (the)": {
+            "Biological": 7,
+            "Hydrological": 17,
+            "Meteorological": 5
+        }
+    },
+    {
+        "Latvia": {
+            "Meteorological": 5
+        }
+    },
+    {
+        "Lebanon": {
+            "Climatological": 1,
+            "Geophysical": 1,
+            "Meteorological": 5
+        }
+    },
+    {
+        "Lesotho": {
+            "Biological": 2,
+            "Hydrological": 3,
+            "Meteorological": 1
+        }
+    },
+    {
+        "Liberia": {
+            "Biological": 9,
+            "Geophysical": 1,
+            "Hydrological": 4
+        }
+    },
+    {
+        "Libya": {
+            "Hydrological": 2
+        }
+    },
+    {
+        "Lithuania": {
+            "Hydrological": 1,
+            "Meteorological": 8
+        }
+    },
+    {
+        "Luxembourg": {
+            "Meteorological": 1
+        }
+    },
+    {
+        "Macao": {
+            "Meteorological": 1
+        }
+    },
+    {
+        "Macedonia (the former Yugoslav Republic of)": {
+            "Climatological": 2,
+            "Hydrological": 4,
+            "Meteorological": 5
+        }
+    },
+    {
+        "Madagascar": {
+            "Biological": 6,
+            "Climatological": 1,
+            "Hydrological": 8,
+            "Meteorological": 52
+        }
+    },
+    {
+        "Malawi": {
+            "Biological": 13,
+            "Climatological": 1,
+            "Geophysical": 3,
+            "Hydrological": 23,
+            "Meteorological": 2
+        }
+    },
+    {
+        "Malaysia": {
+            "Biological": 10,
+            "Geophysical": 3,
+            "Hydrological": 34,
+            "Meteorological": 4
+        }
+    },
+    {
+        "Maldives": {
+            "Biological": 2,
+            "Geophysical": 1
+        }
+    },
+    {
+        "Mali": {
+            "Biological": 17,
+            "Hydrological": 16
+        }
+    },
+    {
+        "Marshall Islands (the)": {
+            "Biological": 1
+        }
+    },
+    {
+        "Martinique": {
+            "Biological": 1,
+            "Geophysical": 1,
+            "Meteorological": 5
+        }
+    },
+    {
+        "Mauritania": {
+            "Biological": 6,
+            "Hydrological": 9,
+            "Meteorological": 3
+        }
+    },
+    {
+        "Mauritius": {
+            "Hydrological": 1,
+            "Meteorological": 9
+        }
+    },
+    {
+        "Mexico": {
+            "Biological": 2,
+            "Climatological": 1,
+            "Geophysical": 27,
+            "Hydrological": 71,
+            "Meteorological": 111
+        }
+    },
+    {
+        "Micronesia (Federated States of)": {
+            "Biological": 1,
+            "Meteorological": 4
+        }
+    },
+    {
+        "Moldova (the Republic of)": {
+            "Climatological": 1,
+            "Hydrological": 5,
+            "Meteorological": 3
+        }
+    },
+    {
+        "Mongolia": {
+            "Biological": 1,
+            "Climatological": 1,
+            "Hydrological": 8,
+            "Meteorological": 10
+        }
+    },
+    {
+        "Montenegro": {
+            "Meteorological": 1
+        }
+    },
+    {
+        "Montserrat": {
+            "Geophysical": 1,
+            "Meteorological": 1
+        }
+    },
+    {
+        "Morocco": {
+            "Geophysical": 2,
+            "Hydrological": 26,
+            "Meteorological": 3
+        }
+    },
+    {
+        "Mozambique": {
+            "Biological": 26,
+            "Climatological": 5,
+            "Geophysical": 1,
+            "Hydrological": 34,
+            "Meteorological": 23
+        }
+    },
+    {
+        "Myanmar": {
+            "Biological": 3,
+            "Climatological": 1,
+            "Geophysical": 5,
+            "Hydrological": 34,
+            "Meteorological": 10
+        }
+    },
+    {
+        "Namibia": {
+            "Biological": 7,
+            "Hydrological": 7
+        }
+    },
+    {
+        "Nepal": {
+            "Biological": 17,
+            "Climatological": 3,
+            "Geophysical": 5,
+            "Hydrological": 73,
+            "Meteorological": 12
+        }
+    },
+    {
+        "Netherlands (the)": {
+            "Biological": 1,
+            "Hydrological": 1,
+            "Meteorological": 12
+        }
+    },
+    {
+        "Netherlands Antilles": {
+            "Meteorological": 2
+        }
+    },
+    {
+        "New Caledonia": {
+            "Meteorological": 5
+        }
+    },
+    {
+        "New Zealand": {
+            "Geophysical": 5,
+            "Hydrological": 6,
+            "Meteorological": 6
+        }
+    },
+    {
+        "Nicaragua": {
+            "Biological": 8,
+            "Geophysical": 5,
+            "Hydrological": 14,
+            "Meteorological": 20
+        }
+    },
+    {
+        "Niger (the)": {
+            "Biological": 43,
+            "Hydrological": 28,
+            "Meteorological": 1
+        }
+    },
+    {
+        "Nigeria": {
+            "Biological": 65,
+            "Hydrological": 39,
+            "Meteorological": 7
+        }
+    },
+    {
+        "Niue": {
+            "Biological": 1,
+            "Meteorological": 1
+        }
+    },
+    {
+        "Northern Mariana Islands (the)": {
+            "Meteorological": 2
+        }
+    },
+    {
+        "Norway": {
+            "Hydrological": 3,
+            "Meteorological": 1
+        }
+    },
+    {
+        "Oman": {
+            "Hydrological": 4,
+            "Meteorological": 10
+        }
+    },
+    {
+        "Pakistan": {
+            "Biological": 10,
+            "Climatological": 2,
+            "Geophysical": 32,
+            "Hydrological": 118,
+            "Meteorological": 40
+        }
+    },
+    {
+        "Palestine, State of": {
+            "Hydrological": 1,
+            "Meteorological": 3
+        }
+    },
+    {
+        "Panama": {
+            "Biological": 3,
+            "Geophysical": 2,
+            "Hydrological": 24,
+            "Meteorological": 7
+        }
+    },
+    {
+        "Papua New Guinea": {
+            "Biological": 6,
+            "Climatological": 2,
+            "Geophysical": 16,
+            "Hydrological": 22,
+            "Meteorological": 3
+        }
+    },
+    {
+        "Paraguay": {
+            "Biological": 5,
+            "Climatological": 3,
+            "Hydrological": 7,
+            "Meteorological": 5
+        }
+    },
+    {
+        "Peru": {
+            "Biological": 11,
+            "Geophysical": 32,
+            "Hydrological": 83,
+            "Meteorological": 15
+        }
+    },
+    {
+        "Philippines (the)": {
+            "Biological": 22,
+            "Climatological": 2,
+            "Geophysical": 31,
+            "Hydrological": 141,
+            "Meteorological": 301
+        }
+    },
+    {
+        "Poland": {
+            "Climatological": 1,
+            "Hydrological": 8,
+            "Meteorological": 33
+        }
+    },
+    {
+        "Portugal": {
+            "Climatological": 9,
+            "Hydrological": 10,
+            "Meteorological": 11
+        }
+    },
+    {
+        "Puerto Rico": {
+            "Geophysical": 1,
+            "Hydrological": 8,
+            "Meteorological": 11
+        }
+    },
+    {
+        "Romania": {
+            "Geophysical": 2,
+            "Hydrological": 41,
+            "Meteorological": 26
+        }
+    },
+    {
+        "Russian Federation (the)": {
+            "Biological": 1,
+            "Climatological": 9,
+            "Geophysical": 6,
+            "Hydrological": 40,
+            "Meteorological": 33
+        }
+    },
+    {
+        "Rwanda": {
+            "Biological": 11,
+            "Climatological": 1,
+            "Geophysical": 2,
+            "Hydrological": 25,
+            "Meteorological": 1
+        }
+    },
+    {
+        "R\u00e9union": {
+            "Hydrological": 1,
+            "Meteorological": 7
+        }
+    },
+    {
+        "Saint Barth\u00e9lemy": {
+            "Meteorological": 1
+        }
+    },
+    {
+        "Saint Kitts and Nevis": {
+            "Meteorological": 2
+        }
+    },
+    {
+        "Saint Lucia": {
+            "Hydrological": 1,
+            "Meteorological": 5
+        }
+    },
+    {
+        "Saint Martin (French Part)": {
+            "Meteorological": 1
+        }
+    },
+    {
+        "Saint Vincent and the Grenadines": {
+            "Biological": 1,
+            "Geophysical": 1,
+            "Hydrological": 2,
+            "Meteorological": 2
+        }
+    },
+    {
+        "Samoa": {
+            "Biological": 1,
+            "Geophysical": 1,
+            "Meteorological": 5
+        }
+    },
+    {
+        "Sao Tome and Principe": {
+            "Biological": 3
+        }
+    },
+    {
+        "Saudi Arabia": {
+            "Biological": 3,
+            "Hydrological": 22,
+            "Meteorological": 1
+        }
+    },
+    {
+        "Senegal": {
+            "Biological": 9,
+            "Hydrological": 11,
+            "Meteorological": 3
+        }
+    },
+    {
+        "Serbia": {
+            "Geophysical": 1,
+            "Hydrological": 4,
+            "Meteorological": 6
+        }
+    },
+    {
+        "Serbia Montenegro": {
+            "Geophysical": 1,
+            "Hydrological": 3,
+            "Meteorological": 2
+        }
+    },
+    {
+        "Seychelles": {
+            "Geophysical": 1,
+            "Hydrological": 1
+        }
+    },
+    {
+        "Sierra Leone": {
+            "Biological": 16,
+            "Hydrological": 9,
+            "Meteorological": 3
+        }
+    },
+    {
+        "Singapore": {
+            "Biological": 3
+        }
+    },
+    {
+        "Sint Maarten (Dutch part)": {
+            "Meteorological": 1
+        }
+    },
+    {
+        "Slovakia": {
+            "Climatological": 1,
+            "Hydrological": 11,
+            "Meteorological": 5
+        }
+    },
+    {
+        "Slovenia": {
+            "Geophysical": 1,
+            "Hydrological": 1,
+            "Meteorological": 4
+        }
+    },
+    {
+        "Solomon Islands": {
+            "Biological": 1,
+            "Geophysical": 6,
+            "Hydrological": 3,
+            "Meteorological": 5
+        }
+    },
+    {
+        "Somalia": {
+            "Biological": 25,
+            "Climatological": 5,
+            "Geophysical": 1,
+            "Hydrological": 26,
+            "Meteorological": 5
+        }
+    },
+    {
+        "South Africa": {
+            "Biological": 7,
+            "Climatological": 9,
+            "Geophysical": 4,
+            "Hydrological": 36,
+            "Meteorological": 27
+        }
+    },
+    {
+        "South Sudan": {
+            "Biological": 6,
+            "Climatological": 1,
+            "Hydrological": 7
+        }
+    },
+    {
+        "Soviet Union": {
+            "Geophysical": 12,
+            "Hydrological": 10,
+            "Meteorological": 2
+        }
+    },
+    {
+        "Spain": {
+            "Biological": 1,
+            "Climatological": 9,
+            "Geophysical": 1,
+            "Hydrological": 29,
+            "Meteorological": 31
+        }
+    },
+    {
+        "Sri Lanka": {
+            "Biological": 9,
+            "Geophysical": 1,
+            "Hydrological": 66,
+            "Meteorological": 7
+        }
+    },
+    {
+        "Sudan (the)": {
+            "Biological": 34,
+            "Climatological": 2,
+            "Geophysical": 1,
+            "Hydrological": 29,
+            "Meteorological": 3
+        }
+    },
+    {
+        "Suriname": {
+            "Hydrological": 2
+        }
+    },
+    {
+        "Swaziland": {
+            "Biological": 3,
+            "Climatological": 2,
+            "Hydrological": 1,
+            "Meteorological": 2
+        }
+    },
+    {
+        "Sweden": {
+            "Hydrological": 2,
+            "Meteorological": 5
+        }
+    },
+    {
+        "Switzerland": {
+            "Geophysical": 1,
+            "Hydrological": 9,
+            "Meteorological": 12
+        }
+    },
+    {
+        "Syrian Arab Republic": {
+            "Biological": 1,
+            "Climatological": 1,
+            "Hydrological": 4,
+            "Meteorological": 4
+        }
+    },
+    {
+        "Taiwan (Province of China)": {
+            "Biological": 2,
+            "Geophysical": 9,
+            "Hydrological": 10,
+            "Meteorological": 62
+        }
+    },
+    {
+        "Tajikistan": {
+            "Biological": 3,
+            "Geophysical": 7,
+            "Hydrological": 31,
+            "Meteorological": 1
+        }
+    },
+    {
+        "Tanzania, United Republic of": {
+            "Biological": 31,
+            "Geophysical": 5,
+            "Hydrological": 39,
+            "Meteorological": 2
+        }
+    },
+    {
+        "Thailand": {
+            "Biological": 7,
+            "Geophysical": 3,
+            "Hydrological": 72,
+            "Meteorological": 29
+        }
+    },
+    {
+        "Timor-Leste": {
+            "Biological": 2,
+            "Hydrological": 4,
+            "Meteorological": 1
+        }
+    },
+    {
+        "Togo": {
+            "Biological": 11,
+            "Hydrological": 6
+        }
+    },
+    {
+        "Tonga": {
+            "Geophysical": 2,
+            "Meteorological": 5
+        }
+    },
+    {
+        "Trinidad and Tobago": {
+            "Hydrological": 2,
+            "Meteorological": 2
+        }
+    },
+    {
+        "Tunisia": {
+            "Hydrological": 12
+        }
+    },
+    {
+        "Turkey": {
+            "Biological": 3,
+            "Climatological": 3,
+            "Geophysical": 39,
+            "Hydrological": 53,
+            "Meteorological": 15
+        }
+    },
+    {
+        "Turkmenistan": {
+            "Geophysical": 1
+        }
+    },
+    {
+        "Turks and Caicos Islands (the)": {
+            "Meteorological": 1
+        }
+    },
+    {
+        "Tuvalu": {
+            "Meteorological": 1
+        }
+    },
+    {
+        "Uganda": {
+            "Biological": 37,
+            "Climatological": 2,
+            "Geophysical": 2,
+            "Hydrological": 34,
+            "Meteorological": 2
+        }
+    },
+    {
+        "Ukraine": {
+            "Biological": 2,
+            "Climatological": 2,
+            "Hydrological": 10,
+            "Meteorological": 12
+        }
+    },
+    {
+        "United Kingdom of Great Britain and Northern Ireland (the)": {
+            "Biological": 3,
+            "Hydrological": 17,
+            "Meteorological": 37
+        }
+    },
+    {
+        "United States of America (the)": {
+            "Biological": 3,
+            "Climatological": 42,
+            "Geophysical": 13,
+            "Hydrological": 127,
+            "Meteorological": 450
+        }
+    },
+    {
+        "Uruguay": {
+            "Hydrological": 5,
+            "Meteorological": 6
+        }
+    },
+    {
+        "Uzbekistan": {
+            "Biological": 1,
+            "Geophysical": 3,
+            "Hydrological": 3
+        }
+    },
+    {
+        "Vanuatu": {
+            "Biological": 1,
+            "Geophysical": 1,
+            "Hydrological": 1,
+            "Meteorological": 12
+        }
+    },
+    {
+        "Venezuela (Bolivarian Republic of)": {
+            "Biological": 5,
+            "Geophysical": 3,
+            "Hydrological": 28,
+            "Meteorological": 4
+        }
+    },
+    {
+        "Viet Nam": {
+            "Biological": 10,
+            "Hydrological": 97,
+            "Meteorological": 110
+        }
+    },
+    {
+        "Virgin Island (British)": {
+            "Meteorological": 1
+        }
+    },
+    {
+        "Virgin Island (U.S.)": {
+            "Meteorological": 4
+        }
+    },
+    {
+        "Wallis and Futuna": {
+            "Geophysical": 1,
+            "Meteorological": 1
+        }
+    },
+    {
+        "Yemen": {
+            "Biological": 6,
+            "Geophysical": 2,
+            "Hydrological": 36,
+            "Meteorological": 6
+        }
+    },
+    {
+        "Yemen Arab Rep": {
+            "Geophysical": 1,
+            "Hydrological": 3
+        }
+    },
+    {
+        "Yemen P Dem Rep": {
+            "Hydrological": 2
+        }
+    },
+    {
+        "Yugoslavia": {
+            "Biological": 1,
+            "Geophysical": 2,
+            "Hydrological": 2,
+            "Meteorological": 1
+        }
+    },
+    {
+        "Zambia": {
+            "Biological": 16,
+            "Hydrological": 11
+        }
+    },
+    {
+        "Zimbabwe": {
+            "Biological": 21,
+            "Hydrological": 10,
+            "Meteorological": 7
+        }
+    }
+]
