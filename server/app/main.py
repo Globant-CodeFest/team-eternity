@@ -5,6 +5,7 @@
 from fastapi import FastAPI, Depends
 from app.config import get_settings, Settings
 
+from app.crud import fetch_initial_data
 
 app = FastAPI()
 
@@ -19,3 +20,10 @@ async def pong(settings: Settings = Depends(get_settings)):
     }
 
 
+@app.get("/get-initial-data")
+async def get_initial_data():
+    datos = fetch_initial_data()
+
+    json_data = datos.llamado_inicial()
+
+    return json_data

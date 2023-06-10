@@ -17,9 +17,7 @@ class DatosClimate:
             lambda x: x.set_index('Disaster Subgroup').to_dict()['Ocurrencias']).reset_index().rename(
             columns={0: 'data'})
         final_result = result.apply(lambda x: {x['Country']: x['data']}, axis=1).tolist()
-        with open('archivos/llamado_inicial.json', 'w') as file:
-            json.dump(final_result, file)
-        return result
+        return final_result
 
     def filtrado_grande(self, pais, year_min, year_max):
         df = self.df[
