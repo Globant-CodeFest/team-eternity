@@ -16,7 +16,7 @@ class DatosClimate:
         result = df_filtrado.reset_index().groupby('Country').apply(
             lambda x: x.set_index('Disaster Subgroup').to_dict()['Ocurrencias']).reset_index().rename(
             columns={0: 'data'})
-        final_result = result.apply(lambda x: {x['Country']: x['data']}, axis=1).tolist()
+        final_result = {c:d for c,d in zip(result['Country'],result['data'])}
         return final_result
 
     def filtrado_grande(self, pais: str, year_min: int, year_max: int):
