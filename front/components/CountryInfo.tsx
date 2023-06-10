@@ -33,7 +33,9 @@ const [isPopupOpen, setPopupOpen] = useState(false);
         </tbody>
       </table>
       <button onClick={handleMoreInfo} className="text-black">Más información</button>
-      {isPopupOpen && <PopupTable onClose={() => setPopupOpen(false)} />}
+      {/* {isPopupOpen && <PopupTable onClose={() => setPopupOpen(false)} />} */}
+      {isPopupOpen && <PopupTable country={selected.country} onClose={() => setPopupOpen(false)} />}
+
 
     </div>
   );
