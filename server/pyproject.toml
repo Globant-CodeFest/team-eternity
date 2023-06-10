@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "globantfest"
+version = "0.1.0"
+description = "Api server"
+authors = ["the julianson <jbazanaguirre@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.96.0"
+uvicorn = "^0.22.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
