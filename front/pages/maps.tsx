@@ -1,7 +1,10 @@
+// File: Map.js
+
 import { useState, useEffect } from 'react';
 import { GoogleMap, useLoadScript, Marker, InfoWindow } from '@react-google-maps/api';
 import Geocode from 'react-geocode';
 import data from '@/public/data.json';
+import CountryInfo from '@/components/CountryInfo';  // Import the new component
 
 Geocode.setApiKey('AIzaSyCL0pF8TYxlJqAVJWlfvRxOk7EN51MK7mY');
 Geocode.enableDebug();
@@ -87,15 +90,7 @@ function Map() {
               setSelected(null);
             }}
           >
-            <div>
-              <h2>{selected.country}</h2>
-              {selected.data.map((item, index) => (
-                <div key={index}>
-                  <img src={`/${item.icon}`} alt={item.type} width="20" height="20" />
-                  <p>{`${item.type}: ${item.count}`}</p>
-                </div>
-              ))}
-            </div>
+            <CountryInfo selected={selected} />
           </InfoWindow>
         ) : null}
       </GoogleMap>
