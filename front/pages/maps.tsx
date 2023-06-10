@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react';
 import { GoogleMap, useLoadScript, Marker, InfoWindow } from '@react-google-maps/api';
 import Geocode from 'react-geocode';
-import data from '@/public/data.json';
+import data from '@/public/llamado_inicial.json';
 import CountryInfo from '@/components/CountryInfo';  // Import the new component
 
 Geocode.setApiKey('AIzaSyCL0pF8TYxlJqAVJWlfvRxOk7EN51MK7mY');

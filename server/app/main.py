@@ -4,12 +4,20 @@
 
 from fastapi import FastAPI, Depends
 from app.config import get_settings, Settings
+from fastapi.middleware.cors import CORSMiddleware
 
 from app.crud import fetch_initial_data
 
 app = FastAPI()
 
 base_url = "/api/v1"
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.get("/ping")
 async def pong(settings: Settings = Depends(get_settings)):
