@@ -1,0 +1,15 @@
+{
+    "Afghanistan": {
+        "Biological": 17,
+        "Climatological": 1,
+        "Geophysical": 27,
+        "Hydrological": 111,
+        "Meteorological": 16
+    },
+    "Albania": {
+        "Biological": 1,
+        "Geophysical": 3,
+        "Hydrological": 8,
+        "Meteorological": 6
+    }
+}
