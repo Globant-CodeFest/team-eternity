@@ -11,3 +11,10 @@ services:
     environment:
       - ENVIRONMENT=dev
       - TESTING=0
+  frontend:
+    build: ./front
+    command: npm run dev
+    volumes:
+      - ./front:/app
+    ports:
+      - 3000:3000
