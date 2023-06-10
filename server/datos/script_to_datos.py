@@ -19,7 +19,7 @@ class DatosClimate:
         final_result = result.apply(lambda x: {x['Country']: x['data']}, axis=1).tolist()
         return final_result
 
-    def filtrado_grande(self, pais, year_min, year_max):
+    def filtrado_grande(self, pais: str, year_min: int, year_max: int):
         df = self.df[
             ['Disaster Subgroup', 'Year', 'Country', 'Total Deaths', 'Total Affected', 'No Injured', 'No Homeless',
              'No Affected']]
@@ -29,7 +29,7 @@ class DatosClimate:
 
         return df_filtrado
 
-    def filtrado_chico(self, subgrupo, pais, year_min, year_max):
+    def filtrado_chico(self, subgrupo: list, pais: str, year_min: int, year_max: int):
         df = self.df[
             ['Disaster Subgroup', 'Year', 'Country', 'Total Deaths', 'Total Affected', 'No Injured', 'No Homeless',
              'No Affected']]
